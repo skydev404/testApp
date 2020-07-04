@@ -1,4 +1,4 @@
-import React from 'react';	
+
  
 function reducer(state = {vehicle: ''}, action){
 switch (action.type) {
